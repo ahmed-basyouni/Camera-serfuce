@@ -33,7 +33,7 @@ import android.widget.Toast;
  * @author {Ahmed-Basyouni (the Alpha)}
  *
  */
-public class CameraMask extends Activity implements SurfaceHolder.Callback {
+public class CameraMasK extends Activity implements SurfaceHolder.Callback {
 
 	private SurfaceView surfaceView;
 	private SurfaceHolder surfaceHolder;
