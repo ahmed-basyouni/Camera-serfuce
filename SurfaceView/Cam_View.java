@@ -1,4 +1,4 @@
-package com.example.cam;
+
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -33,7 +33,7 @@ import android.widget.Toast;
  * @author {Ahmed-Basyouni (the Alpha)}
  *
  */
-public class Cam_View extends Activity implements SurfaceHolder.Callback {
+public class CameraMask extends Activity implements SurfaceHolder.Callback {
 
 	private SurfaceView surfaceView;
 	private SurfaceHolder surfaceHolder;
